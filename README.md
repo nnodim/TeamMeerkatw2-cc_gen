@@ -35,3 +35,20 @@ This Project was assigned to our team (Team Meerkatw2) by Zuri. And it help both
 ## Authors
 
 - [Nnodim Obinna](https://www.github.com/nnodim)
+- Barakat Akinyemi
+- Ebun Ayinla
+- Clement Nwagbala
+- Adedoyin Ekele
+- Olatomiwa Olarinde
+- Odulaja Oluwatelemi
+- Fatima Jubril
+- Anas Adelopo
+- Marvellous osigwe
+- Emmanuel Robert
+- Daniel Adebowale
+- Mary Gideon
+- Oluwatobi Abolaji
+- Omolola Omotosho
+- John Paul Onuh
+- oyewole oyegoke
+- Ezinne Madukairo
